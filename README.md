@@ -1,4 +1,4 @@
 # Database-creation
 using SQL and NoSQL to create a database containing data 
 
-in this folder creates several files of code used to create a database using SQL
+This repositry contains two folders , the first called databse creation SQL contains several files of code { either on word or in a IDE)  used to create a database using SQL. and the other FOR NOSQL USING MONGO DB
